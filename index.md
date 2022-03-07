@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# About me
 
-You can use the [editor on GitHub](https://github.com/carmenpodar/about-me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  I'm a female developer passionate about learning and about technology as a means to improving our lives.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  For the last 15 years, my main job was writing code. Not any code, but code that has the behavior that makes sense from a business perspective and improves our lives. In the last years, I felt that with my knowledge and skills I can contribute more to society, but I did not know how until late 2020.
 
-### Markdown
+  As technology impacts our lives more and more, future generations need to understand technology better in order to be able to use it to their advantage.
+Not everyone has to become a developer, but improving the digital skills and literacy of future generations is something that needs to be high on our priority list.      
+## I’m on a mission: educating for the future!
+ 
+## My story:
+  I was born in a small town in communist Romania. I started attending informatics classes early in my school years, as part of the Children’s Club group activities. I went there for two reasons. First, it was an opportunity to play with my colleagues, socialize with people who share the same interests. Second, it was an opportunity for computer gaming (which I discovered soon it's not my thing). The most important thing I learned during these classes was that coding is actually applied mathematics and I loved mathematics. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  At 14, I had to choose the profile of the high school that I would attend for the next 4 years. The decision to attend informatics allowed me to follow my passion for coding & math, but also to compete against the smartest, best-in-town colleagues.I applied and had the admission exam, even if my parents were skeptical and I was admitted to this class. We were half girls, half boys, at that point in Romania that was normal. 
+  
+  I come from a modest family, both my parents being factory workers in the metallurgical industry. At that time, I did not own a computer and my parents decided to borrow money to buy a second-hand one, to help me complete my studies and support my learning. 
+We studied on average 7 hours of informatics per week. We started with logical diagrams and the focus was on analyzing the problems that we were given and then solving them using code. All these years shaped my understanding of informatics, how coding and mathematics blend together, or how logic and creativity can play an important role in solving problems.
 
-```markdown
-Syntax highlighted code block
+  Later in life, I realized how these things influenced my decision-making process and my everyday life. 
+  
+  Upon high school graduation, the university of choice was Technical University, one of the options that allowed me to study both computer software and hardware. I had the exam and got admitted to the Computer Science Faculty with the highest score. University years went by fast and soon after graduating, I started as a Java developer part of an internship program. 
+  
+  Fast forward to 2018, after 11 years and many projects, together with my partner I decided to move to the Netherlands. 
+The most common question I was asked after moving is: 'Why are there so many women in IT in Romania?'. At that time the answer was unknown to me.
 
-# Header 1
-## Header 2
-### Header 3
+  When the Covid pandemic started, I volunteered at a Romanian NGO and started teaching children between 8 and 12 programming in Scratch. I enjoyed the time spent with those children, helping them to discover different solutions and to learn problem solving through coding while applying their creativity and own perspective in sometimes, surprising ways.
 
-- Bulleted
-- List
+  After working with the kids, I realized that this may be part of the answer to the question. I would not have become a developer if I did not have access to the informatics courses in childhood, as I am not passionate about technology nor a gamer. I am not passionate about technology in itself, I am passionate about the things that can be achieved using technology. So for me, technology is a means and not the goal.
+  
+  I did some reasearch and found out that there are limited IT courses in primary and secondary schools here in the Netherlands and the private courses are short-term with little to no mid to long-term perspectives to deepen the knowledge. 
+  
+  Because everything happens for a reason, during a call with my coach mentioned that one of her client uses a franchise for a coding school. I researched the franchise, talked to the founder and I loved his story. He and his wife started this coding school as they wanted their daughter to attend coding classes, but they could not find any. In the meantime, their daughter graduated from Computer Science University in Cambridge.
+  
+  I'm currently in talks with the franchise company to bring this concept to the Netherlands (the name will be disclosed after the contract is signed). They have an extensive curriculum for children between 6 and 18, from drag-and-drop programming to Python and Java courses, Digital Illustration, Video editing courses, and much more. The classes will take place in a location in Amsterdam (search in progress) and also online.
+ 
+If you want more details, please, [Contact Me](mailto:carmea.podar@gmail.com)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+ 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carmenpodar/about-me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
