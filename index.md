@@ -1,4 +1,4 @@
-# Hi, I'm Carmen P
+# Hi, I'm Carmen
 
   I'm a female developer passionate about learning and about technology as a means to improving our lives.
 
