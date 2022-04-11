@@ -38,7 +38,7 @@ The most common question I was asked after moving is: 'Why are there so many wom
   
   Education is the most important asset we have. Knowledge is a type of wealth that we will never lose – the more we share it the more it increases. However, basic knowledge starts with elementary education. This strong foundation makes our dreams possible.
 
-  Two things that stand at the foundation of good education are a sound curriculum and empowering culture. I found these in the plaform offered by the franchise and that is why I am looking forward to opening the first children's coding school in the Netherlands.
+  Two things that stand at the foundation of good education are a sound curriculum and an empowering culture. I found these in the plaform offered by the franchise, that is why I am looking forward to opening the first children's coding school in the Netherlands.
  
 If you want more details, please, [Contact Me](mailto:carmea.podar@gmail.com)
 
