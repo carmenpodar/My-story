@@ -8,7 +8,7 @@
 Not everyone has to become a developer, but improving the digital skills and literacy of future generations is something that needs to be high on our priority list.      
 ## I’m on a mission: educating for the future!
  
-## Who am I?:
+## Who am I?
   I was born in a small town in communist Romania. I started attending informatics classes early in my school years, as part of the Children’s Club group activities. I went there for two reasons. First, it was an opportunity to play with my colleagues, socialize with people who share the same interests. Second, it was an opportunity for computer gaming (which I discovered soon it's not my thing). The most important thing I learned during these classes was that coding is actually applied mathematics and I loved mathematics. 
 
   At 14, I had to choose the profile of the high school that I would attend for the next 4 years. The decision to attend informatics allowed me to follow my passion for coding & math, but also to compete against the smartest, best-in-town colleagues.I applied and had the admission exam, even if my parents were skeptical and I was admitted to this class. We were half girls, half boys, at that point in Romania that was normal. 
