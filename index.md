@@ -34,13 +34,13 @@ The most common question I was asked after moving is: 'Why are there so many wom
   
   Because everything happens for a reason, during a call with my coach mentioned that one of her client uses a franchise for a coding school. I researched the franchise, talked to the founder and I loved his story. He and his wife started this coding school as they wanted their daughter to attend coding classes, but they could not find any. In the meantime, their daughter graduated from Computer Science University in Cambridge.
   
-  I'm currently in talks with the franchise company to bring this concept to the Netherlands (the name will be disclosed after the contract is signed). They have an extensive curriculum for children between 6 and 18, from drag-and-drop programming to Python and Java courses, Digital Illustration, Video editing courses, and much more. The classes will take place in a location in Amsterdam (search in progress) and also online.
+  I recentrly brought the Logiscool franchise to the Netherlands (www.logiscool.com - Dutch site will be setup soon). They have an extensive curriculum for children between 6 and 18, from drag-and-drop programming to Python and Java courses, Digital Illustration, Video editing courses, and much more. The classes will take place in a location in Amsterdam (search in progress) and also online.
   
   Education is the most important asset we have. Knowledge is a type of wealth that we will never lose – the more we share it the more it increases. However, basic knowledge starts with elementary education. This strong foundation makes our dreams possible.
 
   Two things that stand at the foundation of good education are a sound curriculum and an empowering culture. I found these in the plaform offered by the franchise, that is why I am looking forward to opening the first children's coding school in the Netherlands.
  
-If you want more details, please, [Contact Me](mailto:carmea.podar@gmail.com)
+If you want more details, please, [Contact Me](mailto:carmen.podar@logiscool.com)
 
 
  
