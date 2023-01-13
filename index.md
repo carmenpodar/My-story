@@ -2,7 +2,7 @@
 
   I'm a female developer passionate about learning and about technology as a means to improving our lives.
 
-  For the last 15 years, my main job was writing code. Not any code, but code that has the behavior that makes sense from a business perspective and improves our lives. In the last years, I felt that with my knowledge and skills I can contribute more to society, but I did not know how until late 2020.
+  For the last 16 years, my main job was writing code. Not any code, but code that has the behavior that makes sense from a business perspective and improves our lives. In the last years, I felt that with my knowledge and skills I can contribute more to society, but I did not know how until late 2020.
 
   As technology impacts our lives more and more, future generations need to understand technology better in order to be able to use it to their advantage.
 Not everyone has to become a developer, but improving the digital skills and literacy of future generations is something that needs to be high on our priority list.      
