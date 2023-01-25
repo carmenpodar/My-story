@@ -14,7 +14,7 @@ Not everyone has to become a developer, but improving the digital skills and lit
   At 14, I had to choose the profile of the high school that I would attend for the next 4 years. The decision to attend informatics allowed me to follow my passion for coding & math, but also to compete against the smartest, best-in-town colleagues.I applied and had the admission exam, even if my parents were skeptical and I was admitted to this class. We were half girls, half boys, at that point in Romania that was normal. 
   
   I come from a modest family, both my parents being factory workers in the metallurgical industry. At that time, I did not own a computer and my parents decided to borrow money to buy a second-hand one, to help me complete my studies and support my learning. 
-We studied on average 7 hours of informatics per week. We started with logical diagrams and the focus was on analyzing the problems that we were given and then solving them using code. All these years shaped my understanding of informatics, how coding and mathematics blend together, or how logic and creativity can play an important role in solving problems.
+We studied on average 8 hours of informatics per week. We started with logical diagrams and the focus was on analyzing the problems that we were given and then solving them using code. All these years shaped my understanding of informatics, how coding and mathematics blend together, or how logic and creativity can play an important role in solving problems.
 
   Later in life, I realized how these things influenced my decision-making process and my everyday life. 
   
@@ -32,13 +32,14 @@ The most common question I was asked after moving is: 'Why are there so many wom
   
   I did some reasearch and found out that there are limited IT courses in primary and secondary schools here in the Netherlands and the private courses are short-term with little to no mid to long-term perspectives to deepen the knowledge. 
   
-  Because everything happens for a reason, during a call with my coach mentioned that one of her client uses a franchise for a coding school. I researched the franchise, talked to the founder and I loved his story. He and his wife started this coding school as they wanted their daughter to attend coding classes, but they could not find any. In the meantime, their daughter graduated from Computer Science University in Cambridge.
+  Because everything happens for a reason, during a call with my coach mentioned that one of her client uses a franchise for a coding school. I researched the franchise, talked to the founder and I loved his story. He and his wife started this coding school as they wanted their daughter to attend coding classes, but they could not find any. In the meantime, their daughter graduated from Computer Science University.
   
   I recently became the Logiscool franchise representative in the Netherlands ([website](http://www.logiscool.com/nl)). They have an extensive curriculum for children between 6 and 18, from drag-and-drop programming to Python and Unity courses, Digital Illustration, Video editing courses, and much more. The classes will take place in a location in Amsterdam (Wicherstraat 138 1051ML) and also online.
   
   Education is the most important asset we have. Knowledge is a type of wealth that we will never lose – the more we share it the more it increases. However, basic knowledge starts with elementary education. This strong foundation makes our dreams possible.
 
   Two things that stand at the foundation of good education are a sound curriculum and an empowering culture. I found these in the plaform offered by the franchise, that is why I am looking forward to opening the first children's coding school in the Netherlands.
+  My goal is to provide children coming from less fortunate backgrounds with free programming courses. This will give them besides the technical skills, a real boost of confidence as they will have a superpower that is rare. This is also a very personal goal, as if it wasn't for the free courses I attended in my hometown, I would not have discovered the world of programming.
  
 If you want more details, please, [Contact Me](mailto:carmen.podar@logiscool.com)
 
